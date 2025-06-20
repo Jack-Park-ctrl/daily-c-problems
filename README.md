@@ -12,6 +12,7 @@
 | 2   | `day02_cipher_rotation.c`  | 문자열 회전 암호 (Caesar Cipher) |
 | 3   | 'day03_special_numbers.c'  | 특별한 세 자리 수 찾기           |
 | 4   | 'day04_odd_pyramid.c'      | 홀수 피라미드 출력              |   
+| 5   | 'day-5__student_stats.c'   | 학생 성적 평균 구하기          |
 ---
 
 ## 📁 사용 기술
